@@ -1,0 +1,2 @@
+# TourCacher
+From expenses to a rich experience, travel is something which very much depends on these factors. Our hack, TourCasher, develops a social anonymous platform which enhances the tour experiences. People within a particular range can see the comments of people who posted in that range. Along with this, we have also developed an automatic Story Builder which takes all the photos and posts made to the application during the trip and animates them into a slideshow to put a cheery on the top the cake.
