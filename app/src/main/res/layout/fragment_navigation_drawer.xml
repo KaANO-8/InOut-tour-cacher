@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd"
+    tools:context="com.pyrospiral.android.materialtrial.DrawerFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/containerDrawerImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFC107">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="144dp"
+            />
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/drawerListView"
+        android:layout_below="@+id/containerDrawerImage"
+        android:layout_centerHorizontal="true"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"/>
+
+
+</RelativeLayout>

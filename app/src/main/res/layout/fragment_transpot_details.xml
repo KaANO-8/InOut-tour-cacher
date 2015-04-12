@@ -1,0 +1,108 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.adeshkala.hackahon.transpot_details">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Now tell us something about transport system"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/title"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/dept"
+        android:layout_below="@+id/title">
+
+    <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+        android:layout_weight="30"
+        android:id="@+id/DT"
+        android:text="Departure Time"
+        android:layout_below="@+id/title"
+        android:paddingBottom="50dp"/>
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="70"
+        android:id="@+id/EDT"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/arr"
+        android:layout_below="@+id/dept">
+
+    <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+        android:layout_weight="30"
+        android:id="@+id/AT"
+        android:text="Arrival Time"
+        android:layout_below="@+id/DT"
+        android:paddingBottom="50dp"/>
+
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="60"
+        android:id="@+id/EAT"
+        android:layout_marginLeft="20dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/arr"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Seat no."
+            android:layout_weight="30"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="60"
+            android:id="@+id/seat_no"/>
+        </LinearLayout>
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/skip"
+        android:text="SKIP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:textColor="#FFFFFF"
+        android:background="#0892d0"
+        android:layout_margin="20dp"
+        />
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/done"
+        android:text="DONE"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#0892d0"
+        android:textColor="#FFFFFF"
+        android:layout_margin="20dp"
+        />
+
+</RelativeLayout>
