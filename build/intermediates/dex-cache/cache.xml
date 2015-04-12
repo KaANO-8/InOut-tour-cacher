@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-d65b2a76cc439cc21814dfc32fd81e591bf1a840.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-a9c9636b3e5034565e316cbe72f72ccd9adb92cd.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-00223d32b27f422654ec85e92b627b646847e74e.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-b6ca93007a85530f35cc9d7988d11ee4d6e94388.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-01de09eaa18cf769bf8a1d228932074402df031b.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-b9d3c9d68a4e7281610011b167e1763e8b444f09.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-b642c7f9ecbbc8f0952c82560c4d68f91cb3e0ee.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-6f37982bd704d31fe2476af970b33cb8670a2fa1.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e60533ea1ca1425dcb60ccc14b518f4cc3842782.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-5d50d5404f61c9e80573e409d1f58b0ec9107285.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-7a8d80a517ade175c98ba816af2334841770a2da.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f477cccd4b7f4b47022a8a6e0d2f0b6a9e45a354.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-88a9917c5b7523da999ff3d31b25a3c5dddf231e.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-e88cd104401ac2dcc00e06ae86a464fd911950cc.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-4831ce78ef3e92f2fc1e87c85ccdd27647c9c95e.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-5eba5d91c753832cd7f1b8f83af52733ba38b112.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-d2020325025485e4f67ad7fb826c4e40ab21f168.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-bac7e09934dfb8b42ec1b2f5b85d26809a42d7bd.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-934d2bc0047ababa43353f89660c0e27c3da5e13.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-d3225d6986da8d3a3ec9168a512779fc43d2e278.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-29f52523807ce243e80d96747fcddc2cc0cac4b5.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8aa807a27d3fde0de287ccb5cef2f302e180563f">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-8cb465343c342dc7b80949845841a584937f7ec3.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-b22b90641c07d961633638e6e204ab1db40c6ca9.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-09604ff7fa9f1dcedd71ee4ee6240faef04128e0.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-164510601c6ab247a868d34082f9f3dd992cdc43.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-154f2ecd8d0e7c6a89d752304077d2beda092ed6.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-766e2f8facceff071062ee808797bdba6e1f0786.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/library-2.4.0-093eabbd2ae761366bf62bf0373b39f683049cb3.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-01f55af6e08cbfdcd60c9b918b6029bf6e1dc0f5.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/TemplateApp/HoloGraphLibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="94c5ea2dbe09072be9aac0dda1173f2cdeaed09b">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-4c94df857b32123448b8d3567713ace34a0ec5e2.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-e1efa86948f43f8a8fd843cf8f2f874ec3fc086a.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.5.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b465c76432a5bc9292608ab6522b41b5ef292d6">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-2420f9b14ab3dc5552195bdcadc69d79ae66f991.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-6dad6ef90b7773423bca9549431d3f2dc0fa700e.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-3529f5c7195f2cdf8afccbbba84142bfb749a183.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/home/kaano8/Final/Untitled Folder/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-97af89e91a13f15e3b38f2c320e0aa4d448a5ec4.jar" />
+    </item>
+    <item
+        jar="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8aa807a27d3fde0de287ccb5cef2f302e180563f">
+        <dex dex="/home/kaano8/Downloads/TemplateApp/app/build/intermediates/pre-dexed/debug/classes-dc299e4c29943e43f9816b22a9bb2528b3a5ce6b.jar" />
+    </item>
+
+</items>

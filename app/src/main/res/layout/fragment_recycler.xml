@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pyrospiral.android.templateapp.RecyclerFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/story"
+        android:text="STORY"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+        android:background="#0095b6"/>
+
+</RelativeLayout>

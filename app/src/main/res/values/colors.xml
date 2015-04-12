@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <color name="primaryColor" >#005555</color>
+    <color name="primaryColorDark">#003333</color>
+    <color name="primaryColorLight">#FFFFFF</color>
+    <color name="accentColor">#ffa700</color>
+    <color name="text_icons">#FFFFFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="blank">#ecf0f1</color>
+    <color name="dividerColor">#B6B6B6</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="accent_dark">#B2DFDB</color>
+    <color name="light">#33B2DFDB</color>
+    <item name="transparent" type="color">#00FFFFFF</item>
+    <item name="grey" type="color">#555555</item>
+    <item name="green" type="color">#4499CC00</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <color name="my_color_highlight">#FFE99E63</color>
+    <color name="my_color_highlight_press">#77E99E63</color>
+    <color name="my_color_highlight_focus">#CCE99E63</color>
+
+
+    <!-- Attendance colors !-->
+
+    <color name="attendance10">#aa3322</color>
+    <color name="attendance20">#c0392b</color>
+    <color name="attendance30">#d35400</color>
+    <color name="attendance40">#e2594c</color>
+    <color name="attendance50">#e67e22</color>
+    <color name="attendance60">#f39c12</color>
+    <color name="attendance70">#f39c12</color>
+    <color name="attendance80">#bbcc12</color>
+    <color name="attendance90">#bbdd00</color>
+    <color name="highAttendance">#2ecc71</color>
+
+
+    <!-- Colors for details heading -->
+    <color name="bright_pink">#FF007F</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="dark_blue">#004A90</color>
+    <color name="chartreuse">#028900</color>
+    <color name="mahroon">#AE0001</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="dark_purple">#330066</color>
+    <color name="brown">#845422</color>
+    <color name="violet">#7F00FF</color>
+    <color name="yellow">#ffa700</color>
+
+    <array name="colors">
+        <item>@color/bright_pink</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/dark_blue</item>
+        <item>@color/chartreuse</item>
+        <item>@color/mahroon</item>
+        <item>@color/spring_green</item>
+        <item>@color/dark_purple</item>
+        <item>@color/brown</item>
+        <item>@color/violet</item>
+        <item>@color/yellow</item>
+    </array>
+
+
+    <!-- Colors for fonts  -->
+    <color name="google_green">#008744</color>
+    <color name="google_red">#d62d20</color>
+    <color name="google_blue">#0057e7</color>
+    <color name="all_black">#000000</color>
+    <color name="coffee">#854442</color>
+    <color name="dark_purple2">#800080</color>
+    <color name="dark_orange">#f47835</color>
+    <color name="dark_pink">#d41243</color>
+    <color name="persuian_blue">#005b96</color>
+    <color name="teal">#006666</color>
+
+    <array name="font_colors">
+        <item>@color/google_green</item>
+        <item>@color/google_red</item>
+        <item>@color/google_blue</item>
+        <item>@color/persuian_blue</item>
+        <item>@color/all_black</item>
+        <item>@color/coffee</item>
+        <item>@color/dark_purple2</item>
+        <item>@color/dark_orange</item>
+        <item>@color/dark_pink</item>
+        <item>@color/teal</item>
+    </array>
+
+
+</resources>
